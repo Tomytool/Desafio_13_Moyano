@@ -1,0 +1,15 @@
+{
+  "name": "desafio_13_moyano",
+  "version": "1.0.0",
+  "description": "Prueba de jquery animaciones",
+  "main": "menu.js",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Moyano",
+  "license": "ISC"
+}
